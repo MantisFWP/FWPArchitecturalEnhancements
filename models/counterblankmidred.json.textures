@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "tainedconcrete20",
+        "1": "twilightwood",
+        "missing": "twilightwood"
+      },
+      "name": "default"
+    }
+  }
+}
