@@ -34,9 +34,9 @@ public class BlockLightBluePoolWater extends ElementsFwparchitecturalenhancement
 	private Fluid fluid;
 	public BlockLightBluePoolWater(ElementsFwparchitecturalenhancementsMod instance) {
 		super(instance, 794);
-		fluid = new Fluid("light_blue_pool_water", new ResourceLocation("fwparchitecturalenhancements:blocks/lightbluepoolwater"),
-				new ResourceLocation("fwparchitecturalenhancements:blocks/lightbluepoolwater")).setLuminosity(2).setDensity(1000).setViscosity(1000)
-						.setGaseous(false);
+		fluid = new Fluid("light_blue_pool_water", new ResourceLocation("fwparchitecturalenhancements:blocks/lightbluepoolwaterfix"),
+				new ResourceLocation("fwparchitecturalenhancements:blocks/lightbluepoolwaterfix")).setLuminosity(2).setDensity(1000)
+						.setViscosity(1000).setGaseous(false);
 	}
 
 	@Override
