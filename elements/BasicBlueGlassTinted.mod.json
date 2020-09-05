@@ -2,8 +2,8 @@
   "_fv": 10,
   "_type": "block",
   "definition": {
-    "texture": "basicwhiteglass",
-    "textureTop": "basicwhiteglass",
+    "texture": "basicblueglasstinted",
+    "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
     "textureRight": "",
@@ -14,7 +14,7 @@
     "emissiveRendering": false,
     "itemTexture": "",
     "hasTransparency": true,
-    "connectedSides": false,
+    "connectedSides": true,
     "transparencyType": "TRANSLUCENT",
     "mx": 0.0,
     "my": 0.0,
@@ -22,8 +22,10 @@
     "Mx": 1.0,
     "My": 1.0,
     "Mz": 1.0,
-    "name": "Basic White Glass",
-    "specialInfo": [],
+    "name": "Basic Blue Glass Tinted",
+    "specialInfo": [
+      "Use with skyscraper block"
+    ],
     "hardness": 1.0,
     "resistance": 10.0,
     "hasGravity": false,

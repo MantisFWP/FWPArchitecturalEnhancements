@@ -3,7 +3,7 @@
   "_type": "block",
   "definition": {
     "texture": "rbanhite-side",
-    "textureTop": "",
+    "textureTop": "rbanhite-side",
     "textureLeft": "",
     "textureFront": "",
     "textureRight": "",

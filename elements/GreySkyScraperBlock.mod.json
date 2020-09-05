@@ -2,8 +2,8 @@
   "_fv": 10,
   "_type": "block",
   "definition": {
-    "texture": "basicwhiteglass",
-    "textureTop": "basicwhiteglass",
+    "texture": "greyskyscraperblock",
+    "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
     "textureRight": "",
@@ -13,16 +13,16 @@
     "rotationMode": 0,
     "emissiveRendering": false,
     "itemTexture": "",
-    "hasTransparency": true,
+    "hasTransparency": false,
     "connectedSides": false,
-    "transparencyType": "TRANSLUCENT",
+    "transparencyType": "SOLID",
     "mx": 0.0,
     "my": 0.0,
     "mz": 0.0,
     "Mx": 1.0,
     "My": 1.0,
     "Mz": 1.0,
-    "name": "Basic White Glass",
+    "name": "Grey Sky Scraper Block",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,
@@ -39,9 +39,9 @@
     "enchantPowerBonus": 0.0,
     "plantsGrowOn": false,
     "canProvidePower": false,
-    "lightOpacity": 42,
+    "lightOpacity": 255,
     "material": {
-      "value": "GLASS"
+      "value": "IRON"
     },
     "tickRate": 10,
     "tickRandomly": false,
@@ -59,7 +59,7 @@
     "reactionToPushing": "NORMAL",
     "isNotColidable": false,
     "soundOnStep": {
-      "value": "GLASS"
+      "value": "METAL"
     },
     "luminance": 0.05,
     "unbreakable": false,
