@@ -61,7 +61,7 @@ public class BlockGenericLightSlab extends ElementsFwparchitecturalenhancementsM
 			setHarvestLevel("pickaxe", 1);
 			setHardness(1F);
 			setResistance(10F);
-			setLightLevel(0F);
+			setLightLevel(1F);
 			setLightOpacity(255);
 			setCreativeTab(TabArchitecturalEnhancements.tab);
 			IBlockState state = this.blockState.getBaseState().withProperty(VARIANT, BlockCustom.Variant.DEFAULT);

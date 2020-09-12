@@ -18,16 +18,16 @@ import net.mcreator.fwparchitecturalenhancements.creativetab.TabArchitecturalEnh
 import net.mcreator.fwparchitecturalenhancements.ElementsFwparchitecturalenhancementsMod;
 
 @ElementsFwparchitecturalenhancementsMod.ModElement.Tag
-public class BlockGenericLight extends ElementsFwparchitecturalenhancementsMod.ModElement {
-	@GameRegistry.ObjectHolder("fwparchitecturalenhancements:generic_light")
+public class BlockPinkSkyScraperBlock extends ElementsFwparchitecturalenhancementsMod.ModElement {
+	@GameRegistry.ObjectHolder("fwparchitecturalenhancements:pink_sky_scraper_block")
 	public static final Block block = null;
-	public BlockGenericLight(ElementsFwparchitecturalenhancementsMod instance) {
-		super(instance, 849);
+	public BlockPinkSkyScraperBlock(ElementsFwparchitecturalenhancementsMod instance) {
+		super(instance, 853);
 	}
 
 	@Override
 	public void initElements() {
-		elements.blocks.add(() -> new BlockCustom().setRegistryName("generic_light"));
+		elements.blocks.add(() -> new BlockCustom().setRegistryName("pink_sky_scraper_block"));
 		elements.items.add(() -> new ItemBlock(block).setRegistryName(block.getRegistryName()));
 	}
 
@@ -35,17 +35,17 @@ public class BlockGenericLight extends ElementsFwparchitecturalenhancementsMod.M
 	@Override
 	public void registerModels(ModelRegistryEvent event) {
 		ModelLoader.setCustomModelResourceLocation(Item.getItemFromBlock(block), 0,
-				new ModelResourceLocation("fwparchitecturalenhancements:generic_light", "inventory"));
+				new ModelResourceLocation("fwparchitecturalenhancements:pink_sky_scraper_block", "inventory"));
 	}
 	public static class BlockCustom extends Block {
 		public BlockCustom() {
 			super(Material.IRON);
-			setUnlocalizedName("generic_light");
-			setSoundType(SoundType.GLASS);
+			setUnlocalizedName("pink_sky_scraper_block");
+			setSoundType(SoundType.METAL);
 			setHarvestLevel("pickaxe", 1);
 			setHardness(1F);
 			setResistance(10F);
-			setLightLevel(1F);
+			setLightLevel(0F);
 			setLightOpacity(255);
 			setCreativeTab(TabArchitecturalEnhancements.tab);
 		}

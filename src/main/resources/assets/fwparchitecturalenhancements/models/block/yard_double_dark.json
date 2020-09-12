@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "fwparchitecturalenhancements:blocks/yarddoubledarktop",
-    "particle": "fwparchitecturalenhancements:blocks/yarddoubledarktop"
+    "all": "fwparchitecturalenhancements:blocks/yarddoubledard2",
+    "particle": "fwparchitecturalenhancements:blocks/yarddoubledard2"
   }
 }
