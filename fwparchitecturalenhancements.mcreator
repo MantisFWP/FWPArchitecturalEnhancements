@@ -6910,8 +6910,8 @@
       "name": "UrbanWhiteSide",
       "type": "block",
       "sortid": 828,
-      "compiles": true,
-      "locked_code": false,
+      "compiles": false,
+      "locked_code": true,
       "ids": {},
       "registry_name": "urban_white_side"
     },

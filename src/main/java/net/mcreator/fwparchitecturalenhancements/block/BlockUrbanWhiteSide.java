@@ -53,10 +53,11 @@ public class BlockUrbanWhiteSide extends ElementsFwparchitecturalenhancementsMod
 		}
 
 		@SideOnly(Side.CLIENT)
-		@Override
-		public BlockRenderLayer getBlockLayer() {
-			return BlockRenderLayer.CUTOUT_MIPPED;
-		}
+        @Override
+        public BlockRenderLayer getBlockLayer() {
+            return BlockRenderLayer.CUTOUT_MIPPED;
+        }
+
 
 		@Override
 		public boolean isOpaqueCube(IBlockState state) {
