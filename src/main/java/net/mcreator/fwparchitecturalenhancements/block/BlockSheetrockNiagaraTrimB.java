@@ -42,7 +42,7 @@ public class BlockSheetrockNiagaraTrimB extends ElementsFwparchitecturalenhancem
 		public BlockCustom() {
 			super(Material.ROCK);
 			setUnlocalizedName("sheetrockniagaratrimb");
-			setSoundType(SoundType.GROUND);
+			setSoundType(SoundType.WOOD);
 			setHarvestLevel("pickaxe", 0);
 			setHardness(1F);
 			setResistance(10F);

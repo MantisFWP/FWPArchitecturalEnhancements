@@ -42,7 +42,7 @@ public class BlockSheetrockForestGreenTrimB extends ElementsFwparchitecturalenha
 		public BlockCustom() {
 			super(Material.ROCK);
 			setUnlocalizedName("sheetrockforestgreentrimb");
-			setSoundType(SoundType.GROUND);
+			setSoundType(SoundType.WOOD);
 			setHarvestLevel("pickaxe", 0);
 			setHardness(1F);
 			setResistance(10F);

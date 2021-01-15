@@ -42,7 +42,7 @@ public class BlockSheetrockGrayTrimT extends ElementsFwparchitecturalenhancement
 		public BlockCustom() {
 			super(Material.ROCK);
 			setUnlocalizedName("sheetrockgraytrimt");
-			setSoundType(SoundType.GROUND);
+			setSoundType(SoundType.WOOD);
 			setHarvestLevel("pickaxe", 0);
 			setHardness(1F);
 			setResistance(10F);

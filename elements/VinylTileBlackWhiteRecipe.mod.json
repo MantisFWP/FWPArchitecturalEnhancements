@@ -10,19 +10,19 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "Blocks.CONCRETE_POWDER#0"
+        "value": "Blocks.CONCRETE_POWDER#15"
       },
       {
-        "value": "Blocks.CONCRETE_POWDER#15"
+        "value": "Blocks.CONCRETE_POWDER#0"
       },
       {
         "value": ""
       },
       {
-        "value": "Blocks.CONCRETE_POWDER#15"
+        "value": "Blocks.CONCRETE_POWDER#0"
       },
       {
-        "value": "Blocks.CONCRETE_POWDER#0"
+        "value": "Blocks.CONCRETE_POWDER#15"
       },
       {
         "value": ""

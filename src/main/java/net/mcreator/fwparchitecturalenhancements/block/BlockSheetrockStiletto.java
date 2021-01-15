@@ -42,7 +42,7 @@ public class BlockSheetrockStiletto extends ElementsFwparchitecturalenhancements
 		public BlockCustom() {
 			super(Material.ROCK);
 			setUnlocalizedName("sheetrockstiletto");
-			setSoundType(SoundType.GROUND);
+			setSoundType(SoundType.WOOD);
 			setHarvestLevel("pickaxe", 0);
 			setHardness(1F);
 			setResistance(10F);

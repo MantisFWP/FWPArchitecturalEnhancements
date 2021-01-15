@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 16,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.CONCRETE_POWDER#7"
+      },
+      {
+        "value": "Blocks.CONCRETE_POWDER#0"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.CONCRETE_POWDER#15"
+      },
+      {
+        "value": "Blocks.CONCRETE_POWDER#7"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:VinylTileGrayscale"
+    },
+    "name": "vinyl_tile_white_grey_black_crafting",
+    "namespace": "mod"
+  }
+}

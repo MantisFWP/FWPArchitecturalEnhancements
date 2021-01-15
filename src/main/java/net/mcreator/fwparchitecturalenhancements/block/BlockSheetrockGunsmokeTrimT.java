@@ -42,7 +42,7 @@ public class BlockSheetrockGunsmokeTrimT extends ElementsFwparchitecturalenhance
 		public BlockCustom() {
 			super(Material.ROCK);
 			setUnlocalizedName("sheetrockgunsmoketrimt");
-			setSoundType(SoundType.GROUND);
+			setSoundType(SoundType.WOOD);
 			setHarvestLevel("pickaxe", 0);
 			setHardness(1F);
 			setResistance(10F);

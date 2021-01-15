@@ -8,19 +8,19 @@
   "key": {
     "0": {
       "item": "minecraft:concrete_powder",
-      "data": 0
+      "data": 15
     },
     "1": {
       "item": "minecraft:concrete_powder",
-      "data": 15
+      "data": 0
     },
     "2": {
       "item": "minecraft:concrete_powder",
-      "data": 15
+      "data": 0
     },
     "3": {
       "item": "minecraft:concrete_powder",
-      "data": 0
+      "data": 15
     }
   },
   "result": {

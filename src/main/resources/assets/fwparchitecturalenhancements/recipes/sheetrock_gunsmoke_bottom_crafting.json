@@ -1,0 +1,28 @@
+{
+  "group": "fwparchitecturalenhancements",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "fwparchitecturalenhancements:sheetrockgunsmoke"
+    },
+    "1": {
+      "item": "fwparchitecturalenhancements:sheetrockgunsmoke"
+    },
+    "2": {
+      "item": "minecraft:planks",
+      "data": 32767
+    },
+    "3": {
+      "item": "minecraft:planks",
+      "data": 32767
+    }
+  },
+  "result": {
+    "item": "fwparchitecturalenhancements:sheetrockgunsmoketrimb",
+    "count": 4
+  }
+}
