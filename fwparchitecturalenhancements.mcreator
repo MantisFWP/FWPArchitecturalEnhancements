@@ -7742,6 +7742,114 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "sheetrock_tan_bottom_crafting"
+    },
+    {
+      "name": "SheetrockVenusCrafting",
+      "type": "recipe",
+      "sortid": 921,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sheetrock_venus_crafting"
+    },
+    {
+      "name": "SheetrockVenusTopCrafting",
+      "type": "recipe",
+      "sortid": 922,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sheetrock_venus_top_crafting"
+    },
+    {
+      "name": "SheetrockVenusBottomCrafting",
+      "type": "recipe",
+      "sortid": 923,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sheetrock_venus_bottom_crafting"
+    },
+    {
+      "name": "SheetrockXanaduCrafting",
+      "type": "recipe",
+      "sortid": 924,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sheetrock_xanadu_crafting"
+    },
+    {
+      "name": "SheetrockXanaduTopCrafting",
+      "type": "recipe",
+      "sortid": 925,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sheetrock_xanadu_top_crafting"
+    },
+    {
+      "name": "SheetrockXanaduBottomCrafting",
+      "type": "recipe",
+      "sortid": 926,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sheetrock_xanadu_bottom_crafting"
+    },
+    {
+      "name": "SheetrockStilettoCrafting",
+      "type": "recipe",
+      "sortid": 927,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sheetrock_stiletto_crafting"
+    },
+    {
+      "name": "SheetrockStilettoTopCrafting",
+      "type": "recipe",
+      "sortid": 928,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sheetrock_stiletto_top_crafting"
+    },
+    {
+      "name": "SheetrockStilettoBottomCrafting",
+      "type": "recipe",
+      "sortid": 929,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sheetrock_stiletto_bottom_crafting"
+    },
+    {
+      "name": "SheetrockBuccaneerCrafting",
+      "type": "recipe",
+      "sortid": 930,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sheetrock_buccaneer_crafting"
+    },
+    {
+      "name": "SheetrockBuccaneerTopCrafting",
+      "type": "recipe",
+      "sortid": 931,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sheetrock_buccaneer_top_crafting"
+    },
+    {
+      "name": "SheetrockBuccaneerBottomCrafting",
+      "type": "recipe",
+      "sortid": 932,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sheetrock_buccaneer_bottom_crafting"
     }
   ],
   "variable_elements": [],

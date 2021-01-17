@@ -1,0 +1,43 @@
+{
+  "group": "fwparchitecturalenhancements",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "fwparchitecturalenhancements:sheetrocktan"
+    },
+    "1": {
+      "item": "fwparchitecturalenhancements:sheetrocktan"
+    },
+    "2": {
+      "item": "fwparchitecturalenhancements:sheetrocktan"
+    },
+    "3": {
+      "item": "fwparchitecturalenhancements:sheetrocktan"
+    },
+    "4": {
+      "item": "minecraft:dye",
+      "data": 1
+    },
+    "5": {
+      "item": "fwparchitecturalenhancements:sheetrocktan"
+    },
+    "6": {
+      "item": "fwparchitecturalenhancements:sheetrocktan"
+    },
+    "7": {
+      "item": "fwparchitecturalenhancements:sheetrocktan"
+    },
+    "8": {
+      "item": "fwparchitecturalenhancements:sheetrocktan"
+    }
+  },
+  "result": {
+    "item": "fwparchitecturalenhancements:sheetrockvenus",
+    "count": 8
+  }
+}
