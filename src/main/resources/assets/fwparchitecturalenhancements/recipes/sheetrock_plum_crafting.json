@@ -1,0 +1,43 @@
+{
+  "group": "fwparchitecturalenhancements",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "fwparchitecturalenhancements:sheetrockpink"
+    },
+    "1": {
+      "item": "fwparchitecturalenhancements:sheetrockpink"
+    },
+    "2": {
+      "item": "fwparchitecturalenhancements:sheetrockpink"
+    },
+    "3": {
+      "item": "fwparchitecturalenhancements:sheetrockpink"
+    },
+    "4": {
+      "item": "minecraft:dye",
+      "data": 13
+    },
+    "5": {
+      "item": "fwparchitecturalenhancements:sheetrockpink"
+    },
+    "6": {
+      "item": "fwparchitecturalenhancements:sheetrockpink"
+    },
+    "7": {
+      "item": "fwparchitecturalenhancements:sheetrockpink"
+    },
+    "8": {
+      "item": "fwparchitecturalenhancements:sheetrockpink"
+    }
+  },
+  "result": {
+    "item": "fwparchitecturalenhancements:sheetrockplum",
+    "count": 8
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "group": "fwparchitecturalenhancements",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "fwparchitecturalenhancements:sheetrockniagara"
+    },
+    "1": {
+      "item": "fwparchitecturalenhancements:sheetrockniagara"
+    },
+    "2": {
+      "item": "fwparchitecturalenhancements:sheetrockniagara"
+    },
+    "3": {
+      "item": "fwparchitecturalenhancements:sheetrockniagara"
+    },
+    "4": {
+      "item": "minecraft:dye",
+      "data": 6
+    },
+    "5": {
+      "item": "fwparchitecturalenhancements:sheetrockniagara"
+    },
+    "6": {
+      "item": "fwparchitecturalenhancements:sheetrockniagara"
+    },
+    "7": {
+      "item": "fwparchitecturalenhancements:sheetrockniagara"
+    },
+    "8": {
+      "item": "fwparchitecturalenhancements:sheetrockniagara"
+    }
+  },
+  "result": {
+    "item": "fwparchitecturalenhancements:sheetrockbahama",
+    "count": 8
+  }
+}

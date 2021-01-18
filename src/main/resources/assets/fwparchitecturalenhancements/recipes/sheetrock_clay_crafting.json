@@ -1,0 +1,44 @@
+{
+  "group": "fwparchitecturalenhancements",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:paper"
+    },
+    "1": {
+      "item": "minecraft:sand",
+      "data": 32767
+    },
+    "2": {
+      "item": "minecraft:paper"
+    },
+    "3": {
+      "item": "minecraft:paper"
+    },
+    "4": {
+      "item": "minecraft:clay_ball"
+    },
+    "5": {
+      "item": "minecraft:paper"
+    },
+    "6": {
+      "item": "minecraft:paper"
+    },
+    "7": {
+      "item": "minecraft:sand",
+      "data": 32767
+    },
+    "8": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "fwparchitecturalenhancements:sheetrockclay",
+    "count": 16
+  }
+}

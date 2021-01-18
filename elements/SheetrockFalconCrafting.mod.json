@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 8,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:SheetrockPink"
+      },
+      {
+        "value": "CUSTOM:SheetrockPink"
+      },
+      {
+        "value": "CUSTOM:SheetrockPink"
+      },
+      {
+        "value": "CUSTOM:SheetrockPink"
+      },
+      {
+        "value": "Items.DYE#8"
+      },
+      {
+        "value": "CUSTOM:SheetrockPink"
+      },
+      {
+        "value": "CUSTOM:SheetrockPink"
+      },
+      {
+        "value": "CUSTOM:SheetrockPink"
+      },
+      {
+        "value": "CUSTOM:SheetrockPink"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SheetrockFalcon"
+    },
+    "name": "sheetrock_falcon_crafting",
+    "namespace": "mod"
+  }
+}

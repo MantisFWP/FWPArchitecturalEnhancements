@@ -1,0 +1,28 @@
+{
+  "group": "fwparchitecturalenhancements",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:planks",
+      "data": 32767
+    },
+    "1": {
+      "item": "minecraft:planks",
+      "data": 32767
+    },
+    "2": {
+      "item": "fwparchitecturalenhancements:sheetrockgray"
+    },
+    "3": {
+      "item": "fwparchitecturalenhancements:sheetrockgray"
+    }
+  },
+  "result": {
+    "item": "fwparchitecturalenhancements:sheetrockgraytrimt",
+    "count": 4
+  }
+}

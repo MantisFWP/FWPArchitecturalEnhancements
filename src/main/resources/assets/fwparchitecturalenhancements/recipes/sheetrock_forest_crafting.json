@@ -1,0 +1,43 @@
+{
+  "group": "fwparchitecturalenhancements",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "fwparchitecturalenhancements:sheetrockgreen"
+    },
+    "1": {
+      "item": "fwparchitecturalenhancements:sheetrockgreen"
+    },
+    "2": {
+      "item": "fwparchitecturalenhancements:sheetrockgreen"
+    },
+    "3": {
+      "item": "fwparchitecturalenhancements:sheetrockgreen"
+    },
+    "4": {
+      "item": "minecraft:coal",
+      "data": 32767
+    },
+    "5": {
+      "item": "fwparchitecturalenhancements:sheetrockgreen"
+    },
+    "6": {
+      "item": "fwparchitecturalenhancements:sheetrockgreen"
+    },
+    "7": {
+      "item": "fwparchitecturalenhancements:sheetrockgreen"
+    },
+    "8": {
+      "item": "fwparchitecturalenhancements:sheetrockgreen"
+    }
+  },
+  "result": {
+    "item": "fwparchitecturalenhancements:sheetrockforestgreen",
+    "count": 8
+  }
+}
