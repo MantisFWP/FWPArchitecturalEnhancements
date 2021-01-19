@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 8,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:SidingLightGray"
+      },
+      {
+        "value": "CUSTOM:SidingLightGray"
+      },
+      {
+        "value": "CUSTOM:SidingLightGray"
+      },
+      {
+        "value": "CUSTOM:SidingLightGray"
+      },
+      {
+        "value": "Items.COAL"
+      },
+      {
+        "value": "CUSTOM:SidingLightGray"
+      },
+      {
+        "value": "CUSTOM:SidingLightGray"
+      },
+      {
+        "value": "CUSTOM:SidingLightGray"
+      },
+      {
+        "value": "CUSTOM:SidingLightGray"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SidingMB"
+    },
+    "name": "siding_mb_crafting",
+    "namespace": "mod"
+  }
+}

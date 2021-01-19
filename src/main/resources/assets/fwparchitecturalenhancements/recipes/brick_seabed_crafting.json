@@ -1,0 +1,34 @@
+{
+  "group": "fwparchitecturalenhancements",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:brick_block"
+    },
+    "1": {
+      "item": "minecraft:brick_block"
+    },
+    "2": {
+      "item": "minecraft:dye",
+      "data": 10
+    },
+    "3": {
+      "item": "minecraft:brick_block"
+    },
+    "4": {
+      "item": "minecraft:brick_block"
+    },
+    "5": {
+      "item": "minecraft:dye",
+      "data": 6
+    }
+  },
+  "result": {
+    "item": "fwparchitecturalenhancements:brickseabed",
+    "count": 4
+  }
+}

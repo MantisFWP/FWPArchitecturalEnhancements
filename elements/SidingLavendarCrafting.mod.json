@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 8,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:SidingPurple"
+      },
+      {
+        "value": "CUSTOM:SidingPurple"
+      },
+      {
+        "value": "CUSTOM:SidingPurple"
+      },
+      {
+        "value": "CUSTOM:SidingPurple"
+      },
+      {
+        "value": "Items.DYE#15"
+      },
+      {
+        "value": "CUSTOM:SidingPurple"
+      },
+      {
+        "value": "CUSTOM:SidingPurple"
+      },
+      {
+        "value": "CUSTOM:SidingPurple"
+      },
+      {
+        "value": "CUSTOM:SidingPurple"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SidingLavendar"
+    },
+    "name": "siding_lavendar_crafting",
+    "namespace": "mod"
+  }
+}

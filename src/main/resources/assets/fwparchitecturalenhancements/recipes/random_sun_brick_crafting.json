@@ -1,0 +1,46 @@
+{
+  "group": "fwparchitecturalenhancements",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:concrete",
+      "data": 1
+    },
+    {
+      "item": "minecraft:concrete_powder",
+      "data": 15
+    },
+    {
+      "item": "minecraft:concrete",
+      "data": 7
+    },
+    {
+      "item": "minecraft:concrete_powder",
+      "data": 15
+    },
+    {
+      "item": "minecraft:concrete",
+      "data": 7
+    },
+    {
+      "item": "minecraft:concrete",
+      "data": 1
+    },
+    {
+      "item": "minecraft:concrete",
+      "data": 1
+    },
+    {
+      "item": "minecraft:concrete_powder",
+      "data": 15
+    },
+    {
+      "item": "minecraft:concrete",
+      "data": 7
+    }
+  ],
+  "result": {
+    "item": "fwparchitecturalenhancements:randombricksunset",
+    "count": 16
+  }
+}

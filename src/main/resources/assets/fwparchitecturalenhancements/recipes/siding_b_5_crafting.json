@@ -1,0 +1,43 @@
+{
+  "group": "fwparchitecturalenhancements",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "fwparchitecturalenhancements:sidinglightblue"
+    },
+    "1": {
+      "item": "fwparchitecturalenhancements:sidinglightblue"
+    },
+    "2": {
+      "item": "fwparchitecturalenhancements:sidinglightblue"
+    },
+    "3": {
+      "item": "fwparchitecturalenhancements:sidinglightblue"
+    },
+    "4": {
+      "item": "minecraft:dye",
+      "data": 12
+    },
+    "5": {
+      "item": "fwparchitecturalenhancements:sidinglightblue"
+    },
+    "6": {
+      "item": "fwparchitecturalenhancements:sidinglightblue"
+    },
+    "7": {
+      "item": "fwparchitecturalenhancements:sidinglightblue"
+    },
+    "8": {
+      "item": "fwparchitecturalenhancements:sidinglightblue"
+    }
+  },
+  "result": {
+    "item": "fwparchitecturalenhancements:sidingb5",
+    "count": 8
+  }
+}

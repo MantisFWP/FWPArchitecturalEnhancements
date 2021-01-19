@@ -1,0 +1,30 @@
+{
+  "group": "fwparchitecturalenhancements",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "34 "
+  ],
+  "key": {
+    "0": {
+      "item": "fwparchitecturalenhancements:brickpaintedblue"
+    },
+    "1": {
+      "item": "fwparchitecturalenhancements:brickpaintedblue"
+    },
+    "2": {
+      "item": "fwparchitecturalenhancements:brickpaintedblue"
+    },
+    "3": {
+      "item": "fwparchitecturalenhancements:brickpaintedblue"
+    },
+    "4": {
+      "item": "minecraft:dye",
+      "data": 15
+    }
+  },
+  "result": {
+    "item": "fwparchitecturalenhancements:brickpaintedsky",
+    "count": 4
+  }
+}

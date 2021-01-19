@@ -1,0 +1,43 @@
+{
+  "group": "fwparchitecturalenhancements",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "fwparchitecturalenhancements:sidingred"
+    },
+    "1": {
+      "item": "fwparchitecturalenhancements:sidingred"
+    },
+    "2": {
+      "item": "fwparchitecturalenhancements:sidingred"
+    },
+    "3": {
+      "item": "fwparchitecturalenhancements:sidingred"
+    },
+    "4": {
+      "item": "minecraft:dye",
+      "data": 1
+    },
+    "5": {
+      "item": "fwparchitecturalenhancements:sidingred"
+    },
+    "6": {
+      "item": "fwparchitecturalenhancements:sidingred"
+    },
+    "7": {
+      "item": "fwparchitecturalenhancements:sidingred"
+    },
+    "8": {
+      "item": "fwparchitecturalenhancements:sidingred"
+    }
+  },
+  "result": {
+    "item": "fwparchitecturalenhancements:sidingdarkred",
+    "count": 8
+  }
+}

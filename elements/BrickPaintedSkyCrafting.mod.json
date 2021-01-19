@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:BrickPaintedBlue"
+      },
+      {
+        "value": "CUSTOM:BrickPaintedBlue"
+      },
+      {
+        "value": "CUSTOM:BrickPaintedBlue"
+      },
+      {
+        "value": "CUSTOM:BrickPaintedBlue"
+      },
+      {
+        "value": "Items.DYE#15"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BrickPaintedSky"
+    },
+    "name": "brick_painted_sky_crafting",
+    "namespace": "mod"
+  }
+}

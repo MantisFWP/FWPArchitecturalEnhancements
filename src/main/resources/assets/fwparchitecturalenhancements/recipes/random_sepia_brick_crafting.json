@@ -1,0 +1,46 @@
+{
+  "group": "fwparchitecturalenhancements",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:concrete",
+      "data": 12
+    },
+    {
+      "item": "minecraft:stained_hardened_clay",
+      "data": 8
+    },
+    {
+      "item": "minecraft:stained_hardened_clay",
+      "data": 7
+    },
+    {
+      "item": "minecraft:concrete",
+      "data": 8
+    },
+    {
+      "item": "minecraft:concrete",
+      "data": 12
+    },
+    {
+      "item": "minecraft:concrete",
+      "data": 8
+    },
+    {
+      "item": "minecraft:stained_hardened_clay",
+      "data": 7
+    },
+    {
+      "item": "minecraft:stained_hardened_clay",
+      "data": 8
+    },
+    {
+      "item": "minecraft:concrete",
+      "data": 12
+    }
+  ],
+  "result": {
+    "item": "fwparchitecturalenhancements:randombricksepia",
+    "count": 16
+  }
+}

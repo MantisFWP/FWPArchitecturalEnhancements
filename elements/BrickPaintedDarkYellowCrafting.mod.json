@@ -1,0 +1,20 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 1.0,
+    "cookingTime": 4,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:BrickPaintedYellow"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:BrickPaintedDarkYellow"
+    },
+    "name": "brick_painted_dark_yellow_crafting",
+    "namespace": "mod"
+  }
+}

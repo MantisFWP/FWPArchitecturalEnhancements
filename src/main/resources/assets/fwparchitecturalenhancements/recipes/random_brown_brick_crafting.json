@@ -1,0 +1,46 @@
+{
+  "group": "fwparchitecturalenhancements",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:stained_hardened_clay",
+      "data": 12
+    },
+    {
+      "item": "minecraft:concrete",
+      "data": 12
+    },
+    {
+      "item": "minecraft:stained_hardened_clay",
+      "data": 7
+    },
+    {
+      "item": "minecraft:red_sandstone",
+      "data": 32767
+    },
+    {
+      "item": "minecraft:stained_hardened_clay",
+      "data": 12
+    },
+    {
+      "item": "minecraft:red_sandstone",
+      "data": 32767
+    },
+    {
+      "item": "minecraft:stained_hardened_clay",
+      "data": 7
+    },
+    {
+      "item": "minecraft:concrete",
+      "data": 12
+    },
+    {
+      "item": "minecraft:stained_hardened_clay",
+      "data": 12
+    }
+  ],
+  "result": {
+    "item": "fwparchitecturalenhancements:randombrickbrown",
+    "count": 16
+  }
+}

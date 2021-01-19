@@ -1,0 +1,51 @@
+{
+  "group": "fwparchitecturalenhancements",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:sandstone",
+      "data": 32767
+    },
+    "1": {
+      "item": "minecraft:concrete",
+      "data": 8
+    },
+    "2": {
+      "item": "minecraft:red_sandstone",
+      "data": 32767
+    },
+    "3": {
+      "item": "minecraft:red_sandstone",
+      "data": 32767
+    },
+    "4": {
+      "item": "minecraft:sandstone",
+      "data": 32767
+    },
+    "5": {
+      "item": "minecraft:concrete",
+      "data": 8
+    },
+    "6": {
+      "item": "minecraft:concrete",
+      "data": 8
+    },
+    "7": {
+      "item": "minecraft:red_sandstone",
+      "data": 32767
+    },
+    "8": {
+      "item": "minecraft:sandstone",
+      "data": 32767
+    }
+  },
+  "result": {
+    "item": "fwparchitecturalenhancements:randombricksandstone",
+    "count": 16
+  }
+}

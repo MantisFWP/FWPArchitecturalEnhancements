@@ -1,0 +1,30 @@
+{
+  "group": "fwparchitecturalenhancements",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01 ",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "fwparchitecturalenhancements:sidingred"
+    },
+    "1": {
+      "item": "fwparchitecturalenhancements:sidingred"
+    },
+    "3": {
+      "item": "fwparchitecturalenhancements:sidingred"
+    },
+    "4": {
+      "item": "fwparchitecturalenhancements:sidingred"
+    },
+    "5": {
+      "item": "minecraft:planks",
+      "data": 32767
+    }
+  },
+  "result": {
+    "item": "fwparchitecturalenhancements:sidingredtrim",
+    "count": 4
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "group": "fwparchitecturalenhancements",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:concrete",
+      "data": 13
+    },
+    {
+      "item": "minecraft:concrete",
+      "data": 14
+    },
+    {
+      "item": "minecraft:concrete",
+      "data": 5
+    },
+    {
+      "item": "minecraft:concrete",
+      "data": 11
+    },
+    {
+      "item": "minecraft:concrete",
+      "data": 4
+    },
+    {
+      "item": "minecraft:concrete",
+      "data": 14
+    },
+    {
+      "item": "minecraft:concrete",
+      "data": 10
+    },
+    {
+      "item": "minecraft:concrete",
+      "data": 11
+    },
+    {
+      "item": "minecraft:concrete",
+      "data": 1
+    }
+  ],
+  "result": {
+    "item": "fwparchitecturalenhancements:randomrainbowbrick",
+    "count": 16
+  }
+}

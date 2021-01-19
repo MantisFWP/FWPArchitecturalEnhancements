@@ -1,0 +1,46 @@
+{
+  "group": "fwparchitecturalenhancements",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:concrete",
+      "data": 14
+    },
+    {
+      "item": "minecraft:concrete",
+      "data": 7
+    },
+    {
+      "item": "minecraft:concrete",
+      "data": 8
+    },
+    {
+      "item": "minecraft:concrete",
+      "data": 7
+    },
+    {
+      "item": "minecraft:concrete",
+      "data": 8
+    },
+    {
+      "item": "minecraft:concrete",
+      "data": 14
+    },
+    {
+      "item": "minecraft:concrete",
+      "data": 14
+    },
+    {
+      "item": "minecraft:concrete",
+      "data": 7
+    },
+    {
+      "item": "minecraft:concrete",
+      "data": 8
+    }
+  ],
+  "result": {
+    "item": "fwparchitecturalenhancements:randombrickmontburgh",
+    "count": 16
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:SidingRed"
+      },
+      {
+        "value": "CUSTOM:SidingRed"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SidingRed"
+      },
+      {
+        "value": "CUSTOM:SidingRed"
+      },
+      {
+        "value": "Blocks.PLANKS"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SidingRedTrim"
+    },
+    "name": "siding_red_trim_crafting",
+    "namespace": "mod"
+  }
+}

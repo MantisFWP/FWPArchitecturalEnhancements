@@ -1,0 +1,26 @@
+{
+  "group": "fwparchitecturalenhancements",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:brick_block"
+    },
+    "1": {
+      "item": "minecraft:brick_block"
+    },
+    "2": {
+      "item": "minecraft:brick_block"
+    },
+    "3": {
+      "item": "minecraft:brick_block"
+    }
+  },
+  "result": {
+    "item": "fwparchitecturalenhancements:brick",
+    "count": 4
+  }
+}

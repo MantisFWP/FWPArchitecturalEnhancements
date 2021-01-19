@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:SidingDarkBrown"
+      },
+      {
+        "value": "CUSTOM:SidingDarkBrown"
+      },
+      {
+        "value": "Items.DYE#15"
+      },
+      {
+        "value": "CUSTOM:SidingDarkBrown"
+      },
+      {
+        "value": "CUSTOM:SidingDarkBrown"
+      },
+      {
+        "value": "Blocks.PLANKS"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SidingDarkBrownTrimW"
+    },
+    "name": "siding_dark_brown_trim_w_crafting",
+    "namespace": "mod"
+  }
+}

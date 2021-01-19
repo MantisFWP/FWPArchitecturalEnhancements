@@ -1,0 +1,20 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 1.0,
+    "cookingTime": 4,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:BrickBrown"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:BrickDullBrown"
+    },
+    "name": "brick_dull_brown_crafting",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "group": "fwparchitecturalenhancements",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:netherrack"
+    },
+    {
+      "item": "minecraft:concrete",
+      "data": 14
+    },
+    {
+      "item": "minecraft:stained_hardened_clay",
+      "data": 14
+    },
+    {
+      "item": "minecraft:stained_hardened_clay",
+      "data": 14
+    },
+    {
+      "item": "minecraft:netherrack"
+    },
+    {
+      "item": "minecraft:concrete",
+      "data": 14
+    },
+    {
+      "item": "minecraft:netherrack"
+    },
+    {
+      "item": "minecraft:concrete",
+      "data": 14
+    },
+    {
+      "item": "minecraft:stained_hardened_clay",
+      "data": 14
+    }
+  ],
+  "result": {
+    "item": "fwparchitecturalenhancements:randombricknether",
+    "count": 16
+  }
+}

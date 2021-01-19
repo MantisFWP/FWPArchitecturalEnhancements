@@ -1,0 +1,20 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 2.0,
+    "cookingTime": 4,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:RandomBrickSandstone"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:RandomBrickEarth"
+    },
+    "name": "random_earth_brick_crafting",
+    "namespace": "mod"
+  }
+}
