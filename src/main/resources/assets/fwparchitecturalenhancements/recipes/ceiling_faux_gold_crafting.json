@@ -1,0 +1,42 @@
+{
+  "group": "fwparchitecturalenhancements",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "fwparchitecturalenhancements:ceilingfauxsteel"
+    },
+    "1": {
+      "item": "fwparchitecturalenhancements:ceilingfauxsteel"
+    },
+    "2": {
+      "item": "fwparchitecturalenhancements:ceilingfauxsteel"
+    },
+    "3": {
+      "item": "fwparchitecturalenhancements:ceilingfauxsteel"
+    },
+    "4": {
+      "item": "minecraft:gold_nugget"
+    },
+    "5": {
+      "item": "fwparchitecturalenhancements:ceilingfauxsteel"
+    },
+    "6": {
+      "item": "fwparchitecturalenhancements:ceilingfauxsteel"
+    },
+    "7": {
+      "item": "fwparchitecturalenhancements:ceilingfauxsteel"
+    },
+    "8": {
+      "item": "fwparchitecturalenhancements:ceilingfauxsteel"
+    }
+  },
+  "result": {
+    "item": "fwparchitecturalenhancements:ceilingfauxgold",
+    "count": 8
+  }
+}

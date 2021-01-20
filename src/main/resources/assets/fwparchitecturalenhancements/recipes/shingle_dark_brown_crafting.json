@@ -1,0 +1,40 @@
+{
+  "group": "fwparchitecturalenhancements",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:wooden_slab",
+      "data": 32767
+    },
+    "3": {
+      "item": "minecraft:wooden_slab",
+      "data": 32767
+    },
+    "4": {
+      "item": "minecraft:iron_nugget"
+    },
+    "5": {
+      "item": "minecraft:wooden_slab",
+      "data": 32767
+    },
+    "6": {
+      "item": "minecraft:iron_nugget"
+    },
+    "7": {
+      "item": "minecraft:planks",
+      "data": 32767
+    },
+    "8": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result": {
+    "item": "fwparchitecturalenhancements:shingledarkbrown",
+    "count": 16
+  }
+}

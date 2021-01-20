@@ -1,0 +1,31 @@
+{
+  "group": "fwparchitecturalenhancements",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:gravel"
+    },
+    "3": {
+      "item": "minecraft:clay_ball"
+    },
+    "4": {
+      "item": "minecraft:stone",
+      "data": 3
+    },
+    "5": {
+      "item": "minecraft:clay_ball"
+    },
+    "7": {
+      "item": "minecraft:gravel"
+    }
+  },
+  "result": {
+    "item": "fwparchitecturalenhancements:ceilingarmstrongwhite",
+    "count": 8
+  }
+}

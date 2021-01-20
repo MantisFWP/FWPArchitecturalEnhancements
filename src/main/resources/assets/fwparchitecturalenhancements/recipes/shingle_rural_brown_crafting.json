@@ -1,0 +1,43 @@
+{
+  "group": "fwparchitecturalenhancements",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "fwparchitecturalenhancements:shingledarkbrown"
+    },
+    "1": {
+      "item": "fwparchitecturalenhancements:shingledarkbrown"
+    },
+    "2": {
+      "item": "fwparchitecturalenhancements:shingledarkbrown"
+    },
+    "3": {
+      "item": "fwparchitecturalenhancements:shingledarkbrown"
+    },
+    "4": {
+      "item": "minecraft:dye",
+      "data": 3
+    },
+    "5": {
+      "item": "fwparchitecturalenhancements:shingledarkbrown"
+    },
+    "6": {
+      "item": "fwparchitecturalenhancements:shingledarkbrown"
+    },
+    "7": {
+      "item": "fwparchitecturalenhancements:shingledarkbrown"
+    },
+    "8": {
+      "item": "fwparchitecturalenhancements:shingledarkbrown"
+    }
+  },
+  "result": {
+    "item": "fwparchitecturalenhancements:shingleruralbrown",
+    "count": 16
+  }
+}

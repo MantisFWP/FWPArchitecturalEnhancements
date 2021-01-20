@@ -1,0 +1,43 @@
+{
+  "group": "fwparchitecturalenhancements",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "fwparchitecturalenhancements:shinglecyan"
+    },
+    "1": {
+      "item": "fwparchitecturalenhancements:shinglecyan"
+    },
+    "2": {
+      "item": "fwparchitecturalenhancements:shinglecyan"
+    },
+    "3": {
+      "item": "fwparchitecturalenhancements:shinglecyan"
+    },
+    "4": {
+      "item": "minecraft:dye",
+      "data": 2
+    },
+    "5": {
+      "item": "fwparchitecturalenhancements:shinglecyan"
+    },
+    "6": {
+      "item": "fwparchitecturalenhancements:shinglecyan"
+    },
+    "7": {
+      "item": "fwparchitecturalenhancements:shinglecyan"
+    },
+    "8": {
+      "item": "fwparchitecturalenhancements:shinglecyan"
+    }
+  },
+  "result": {
+    "item": "fwparchitecturalenhancements:shingleaquagreen",
+    "count": 8
+  }
+}
