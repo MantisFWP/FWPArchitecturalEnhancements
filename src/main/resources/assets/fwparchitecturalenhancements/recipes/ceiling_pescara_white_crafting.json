@@ -1,0 +1,42 @@
+{
+  "group": "fwparchitecturalenhancements",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stick"
+    },
+    "1": {
+      "item": "fwparchitecturalenhancements:ceilingmadisonwhite"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    },
+    "3": {
+      "item": "fwparchitecturalenhancements:ceilingmadisonwhite"
+    },
+    "4": {
+      "item": "fwparchitecturalenhancements:ceilingmadisonwhite"
+    },
+    "5": {
+      "item": "fwparchitecturalenhancements:ceilingmadisonwhite"
+    },
+    "6": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "fwparchitecturalenhancements:ceilingmadisonwhite"
+    },
+    "8": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "fwparchitecturalenhancements:ceilingpescarawhite",
+    "count": 4
+  }
+}

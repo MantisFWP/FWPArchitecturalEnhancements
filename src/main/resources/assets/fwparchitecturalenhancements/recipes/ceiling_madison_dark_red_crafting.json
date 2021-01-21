@@ -1,0 +1,43 @@
+{
+  "group": "fwparchitecturalenhancements",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "fwparchitecturalenhancements:ceilingmadisonred"
+    },
+    "1": {
+      "item": "fwparchitecturalenhancements:ceilingmadisonred"
+    },
+    "2": {
+      "item": "fwparchitecturalenhancements:ceilingmadisonred"
+    },
+    "3": {
+      "item": "fwparchitecturalenhancements:ceilingmadisonred"
+    },
+    "4": {
+      "item": "minecraft:dye",
+      "data": 1
+    },
+    "5": {
+      "item": "fwparchitecturalenhancements:ceilingmadisonred"
+    },
+    "6": {
+      "item": "fwparchitecturalenhancements:ceilingmadisonred"
+    },
+    "7": {
+      "item": "fwparchitecturalenhancements:ceilingmadisonred"
+    },
+    "8": {
+      "item": "fwparchitecturalenhancements:ceilingmadisonred"
+    }
+  },
+  "result": {
+    "item": "fwparchitecturalenhancements:ceilingmadisondarkred",
+    "count": 8
+  }
+}

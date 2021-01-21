@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 8,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CeilingMadisonWhite"
+      },
+      {
+        "value": "CUSTOM:CeilingMadisonWhite"
+      },
+      {
+        "value": "CUSTOM:CeilingMadisonWhite"
+      },
+      {
+        "value": "CUSTOM:CeilingMadisonWhite"
+      },
+      {
+        "value": "Items.DYE#6"
+      },
+      {
+        "value": "CUSTOM:CeilingMadisonWhite"
+      },
+      {
+        "value": "CUSTOM:CeilingMadisonWhite"
+      },
+      {
+        "value": "CUSTOM:CeilingMadisonWhite"
+      },
+      {
+        "value": "CUSTOM:CeilingMadisonWhite"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CeilingMadisonCyan"
+    },
+    "name": "ceiling_madison_cyan_crafting",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "group": "fwparchitecturalenhancements",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "fwparchitecturalenhancements:ceilingmadisonwhite"
+    },
+    "1": {
+      "item": "fwparchitecturalenhancements:ceilingmadisonwhite"
+    },
+    "2": {
+      "item": "fwparchitecturalenhancements:ceilingmadisonwhite"
+    },
+    "3": {
+      "item": "fwparchitecturalenhancements:ceilingmadisonwhite"
+    },
+    "4": {
+      "item": "minecraft:coal",
+      "data": 32767
+    },
+    "5": {
+      "item": "fwparchitecturalenhancements:ceilingmadisonwhite"
+    },
+    "6": {
+      "item": "fwparchitecturalenhancements:ceilingmadisonwhite"
+    },
+    "7": {
+      "item": "fwparchitecturalenhancements:ceilingmadisonwhite"
+    },
+    "8": {
+      "item": "fwparchitecturalenhancements:ceilingmadisonwhite"
+    }
+  },
+  "result": {
+    "item": "fwparchitecturalenhancements:ceilingmadisonblack",
+    "count": 8
+  }
+}
