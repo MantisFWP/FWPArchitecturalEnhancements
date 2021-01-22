@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 8,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.STRING"
+      },
+      {
+        "value": "Items.STRING"
+      },
+      {
+        "value": "Items.STRING"
+      },
+      {
+        "value": "Blocks.WOOL#7"
+      },
+      {
+        "value": "Blocks.WOOL#7"
+      },
+      {
+        "value": "Blocks.WOOL#7"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CarpetGray"
+    },
+    "name": "carpet_gray_crafting",
+    "namespace": "mod"
+  }
+}

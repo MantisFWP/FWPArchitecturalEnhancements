@@ -1,0 +1,45 @@
+{
+  "group": "fwparchitecturalenhancements",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:planks",
+      "data": 32767
+    },
+    "1": {
+      "item": "fwparchitecturalenhancements:sidingwhite"
+    },
+    "2": {
+      "item": "minecraft:sugar"
+    },
+    "3": {
+      "item": "minecraft:planks",
+      "data": 32767
+    },
+    "4": {
+      "item": "fwparchitecturalenhancements:sidingwhite"
+    },
+    "5": {
+      "item": "minecraft:sugar"
+    },
+    "6": {
+      "item": "minecraft:planks",
+      "data": 32767
+    },
+    "7": {
+      "item": "fwparchitecturalenhancements:sidingwhite"
+    },
+    "8": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "result": {
+    "item": "fwparchitecturalenhancements:sidingverticalwhite",
+    "count": 8
+  }
+}

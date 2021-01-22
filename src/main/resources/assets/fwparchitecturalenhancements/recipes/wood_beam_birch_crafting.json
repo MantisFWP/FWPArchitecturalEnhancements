@@ -1,0 +1,51 @@
+{
+  "group": "fwparchitecturalenhancements",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:wooden_slab",
+      "data": 2
+    },
+    "1": {
+      "item": "minecraft:wooden_slab",
+      "data": 2
+    },
+    "2": {
+      "item": "minecraft:wooden_slab",
+      "data": 2
+    },
+    "3": {
+      "item": "minecraft:log",
+      "data": 2
+    },
+    "4": {
+      "item": "minecraft:log",
+      "data": 2
+    },
+    "5": {
+      "item": "minecraft:log",
+      "data": 2
+    },
+    "6": {
+      "item": "minecraft:wooden_slab",
+      "data": 2
+    },
+    "7": {
+      "item": "minecraft:wooden_slab",
+      "data": 2
+    },
+    "8": {
+      "item": "minecraft:wooden_slab",
+      "data": 2
+    }
+  },
+  "result": {
+    "item": "fwparchitecturalenhancements:woodbeambirch",
+    "count": 8
+  }
+}

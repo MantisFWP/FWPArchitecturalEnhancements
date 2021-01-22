@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 8,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CarpetYellow"
+      },
+      {
+        "value": "CUSTOM:CarpetYellow"
+      },
+      {
+        "value": "CUSTOM:CarpetYellow"
+      },
+      {
+        "value": "CUSTOM:CarpetYellow"
+      },
+      {
+        "value": "Items.DYE#11"
+      },
+      {
+        "value": "CUSTOM:CarpetYellow"
+      },
+      {
+        "value": "CUSTOM:CarpetYellow"
+      },
+      {
+        "value": "CUSTOM:CarpetYellow"
+      },
+      {
+        "value": "CUSTOM:CarpetYellow"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CarpetDarkYellow"
+    },
+    "name": "carpet_dark_yellow_crafting",
+    "namespace": "mod"
+  }
+}

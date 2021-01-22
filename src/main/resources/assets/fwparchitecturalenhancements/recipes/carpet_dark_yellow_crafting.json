@@ -1,0 +1,43 @@
+{
+  "group": "fwparchitecturalenhancements",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "fwparchitecturalenhancements:carpetyellow"
+    },
+    "1": {
+      "item": "fwparchitecturalenhancements:carpetyellow"
+    },
+    "2": {
+      "item": "fwparchitecturalenhancements:carpetyellow"
+    },
+    "3": {
+      "item": "fwparchitecturalenhancements:carpetyellow"
+    },
+    "4": {
+      "item": "minecraft:dye",
+      "data": 11
+    },
+    "5": {
+      "item": "fwparchitecturalenhancements:carpetyellow"
+    },
+    "6": {
+      "item": "fwparchitecturalenhancements:carpetyellow"
+    },
+    "7": {
+      "item": "fwparchitecturalenhancements:carpetyellow"
+    },
+    "8": {
+      "item": "fwparchitecturalenhancements:carpetyellow"
+    }
+  },
+  "result": {
+    "item": "fwparchitecturalenhancements:carpetdarkyellow",
+    "count": 8
+  }
+}
