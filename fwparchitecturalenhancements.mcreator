@@ -10703,6 +10703,96 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "carpet_yellow_crafting"
+    },
+    {
+      "name": "CarpetShagWhiteCrafting",
+      "type": "recipe",
+      "sortid": 1250,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "carpet_shag_white_crafting"
+    },
+    {
+      "name": "CarpetShagYellowCrafting",
+      "type": "recipe",
+      "sortid": 1251,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "carpet_shag_yellow_crafting"
+    },
+    {
+      "name": "CarpetShagLimeCrafting",
+      "type": "recipe",
+      "sortid": 1252,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "carpet_shag_lime_crafting"
+    },
+    {
+      "name": "CarpetShagCyanCrafting",
+      "type": "recipe",
+      "sortid": 1253,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "carpet_shag_cyan_crafting"
+    },
+    {
+      "name": "CarpetShagPinkCrafting",
+      "type": "recipe",
+      "sortid": 1254,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "carpet_shag_pink_crafting"
+    },
+    {
+      "name": "CarpetShagBlueCrafting",
+      "type": "recipe",
+      "sortid": 1255,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "carpet_shag_blue_crafting"
+    },
+    {
+      "name": "CarpetShagRedCrafting",
+      "type": "recipe",
+      "sortid": 1256,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "carpet_shag_red_crafting"
+    },
+    {
+      "name": "CarpetShagOrangeCrafting",
+      "type": "recipe",
+      "sortid": 1257,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "carpet_shag_orange_crafting"
+    },
+    {
+      "name": "CarpetShagBlackCrafting",
+      "type": "recipe",
+      "sortid": 1258,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "carpet_shag_black_crafting"
+    },
+    {
+      "name": "CarpetShagLightBlueCrafting",
+      "type": "recipe",
+      "sortid": 1259,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "carpet_shag_light_blue_crafting"
     }
   ],
   "variable_elements": [],

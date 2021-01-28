@@ -1,0 +1,45 @@
+{
+  "group": "fwparchitecturalenhancements",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:string"
+    },
+    "1": {
+      "item": "minecraft:string"
+    },
+    "2": {
+      "item": "minecraft:string"
+    },
+    "3": {
+      "item": "minecraft:string"
+    },
+    "4": {
+      "item": "minecraft:string"
+    },
+    "5": {
+      "item": "minecraft:string"
+    },
+    "6": {
+      "item": "minecraft:wool",
+      "data": 15
+    },
+    "7": {
+      "item": "minecraft:wool",
+      "data": 15
+    },
+    "8": {
+      "item": "minecraft:wool",
+      "data": 15
+    }
+  },
+  "result": {
+    "item": "fwparchitecturalenhancements:carpetshagblack",
+    "count": 8
+  }
+}

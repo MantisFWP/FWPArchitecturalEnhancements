@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 8,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.STRING"
+      },
+      {
+        "value": "Items.STRING"
+      },
+      {
+        "value": "Items.STRING"
+      },
+      {
+        "value": "Items.STRING"
+      },
+      {
+        "value": "Items.STRING"
+      },
+      {
+        "value": "Items.STRING"
+      },
+      {
+        "value": "Blocks.WOOL#11"
+      },
+      {
+        "value": "Blocks.WOOL#11"
+      },
+      {
+        "value": "Blocks.WOOL#11"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CarpetShagBlue"
+    },
+    "name": "carpet_shag_blue_crafting",
+    "namespace": "mod"
+  }
+}
